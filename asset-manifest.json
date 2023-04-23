@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Genz-Client/static/js/main.ee3bcb12.chunk.js",
+    "main.js.map": "/Genz-Client/static/js/main.ee3bcb12.chunk.js.map",
+    "runtime-main.js": "/Genz-Client/static/js/runtime-main.34c5c091.js",
+    "runtime-main.js.map": "/Genz-Client/static/js/runtime-main.34c5c091.js.map",
+    "static/js/2.9604fa0f.chunk.js": "/Genz-Client/static/js/2.9604fa0f.chunk.js",
+    "static/js/2.9604fa0f.chunk.js.map": "/Genz-Client/static/js/2.9604fa0f.chunk.js.map",
+    "index.html": "/Genz-Client/index.html",
+    "static/js/2.9604fa0f.chunk.js.LICENSE.txt": "/Genz-Client/static/js/2.9604fa0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34c5c091.js",
+    "static/js/2.9604fa0f.chunk.js",
+    "static/js/main.ee3bcb12.chunk.js"
+  ]
+}
